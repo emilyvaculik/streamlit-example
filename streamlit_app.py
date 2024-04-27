@@ -8,5 +8,5 @@ import plotly.express as px
 
 st.title("DASHBOARD DE VENDAS")
 
-
+streamlit run streamlit_app,py
 
